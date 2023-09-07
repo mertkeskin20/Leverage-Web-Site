@@ -1,0 +1,358 @@
+header nav {
+    top: 65px;
+}
+
+.sectionHeader {
+    line-height: 30px;
+    font-size: 15px;
+    border-bottom: 3px solid black;
+
+}
+
+.menuToggle {
+    width: 20px;
+}
+
+header .container {
+    padding: 0 50px;
+}
+
+header .logo img {
+    width: 100px;
+}
+
+header ul li a {
+    padding: 10px 27px;
+    font-size: 12px;
+}
+
+/* main section */
+
+#mainSlider {
+    height: 300px;
+}
+
+#mainCaption {
+    height: 200px;
+}
+
+#mainCaption h1 {
+    margin-left: 45px;
+    margin-right: 100px;
+    margin-top: 150px;
+    font-size: 15px;
+}
+
+#mainCaption p {
+    font-size: 10px;
+    margin-left: 40px;
+    margin-right: 30px;
+}
+
+/*futures*/
+
+
+#features img {
+    width: 70px;
+}
+
+.heading {
+    font-size: 16px;
+}
+
+.itemTextF p {
+    font-size: 10px;
+}
+
+.col3 {
+    margin: 10px;
+}
+
+
+/*services*/
+
+
+#services h3 {
+    font-size: 15px;
+}
+
+
+.col2 {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.col2 p {
+    width: 100%;
+}
+
+.item .itemText {
+    font-size: 10px;
+}
+
+
+/* contact*/
+
+
+#contact h2 {
+    font-size: 20px;
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 3px solid #000000;
+    margin-top: 10px;
+}
+
+.contactArea {
+    display: table-column;
+    width: 100%;
+
+
+}
+
+.contactElement i {
+    font-size: 16px
+}
+
+.contactElement h3 {
+    font-size: 16px
+}
+
+.contactElement p {
+    font-size: 12px
+}
+
+.contactRight {
+    padding-top: 0;
+    width: 100%;
+
+}
+
+.contactRight #name,
+#mail,
+#message {
+    font-size: 1rem;
+
+}
+
+.footerItem img {
+    height: 50px;
+}
+
+.footerItem p {
+    font-size: 13px;
+}
+
+/*about*/
+.aboutImage {
+    width: 70%;
+    margin-left: 0;
+}
+
+.aboutImage img {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.aboutText {
+    padding-left: 30px;
+    padding-right: 18px;
+    font-size: 13px;
+}
+
+/*smartAg*/
+.akilliT .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.akilliTImage {
+    width: 70%;
+    margin-left: 0;
+}
+
+.akilliTImage img {
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 150px;
+}
+
+.akilliTText {
+    padding-left: 30px;
+    padding-right: 18px;
+    font-size: 13px;
+}
+
+.akilliT .col2 {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.akilliT .col2 img{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.akilliT h2 {
+    font-size: 12px;
+}
+
+.akilliSubText {
+    padding-left: 30px;
+    padding-right: 18px;
+    font-size: 13px;
+}
+
+.akilliT h3 {
+    font-size: 12px;
+}
+
+.akilliT .list {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 13px;
+}
+
+.akilliT .list ul li {
+    font-size: 10px;
+}
+.akilliT .list .unordered-list {
+padding-right: 50px;
+}
+.akilliT .list .unordered-list li {
+    padding-left: 10px;
+}
+.akilliT .akilliT .unordered-list li:before {
+    width: 5px;
+    height: 5px;
+}
+/*exp*/
+
+
+.exp .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.expImage {
+    width: 70%;
+    margin-left: 0;
+}
+
+.expImage img {
+    margin-top: 20px;
+    margin-left: 0;
+}
+
+.expText {
+    padding-left: 30px;
+    padding-right: 18px;
+    font-size: 13px;
+}
+
+
+
+/*button*/
+button {
+    font-size: 1rem;
+}
+
+/*perf*/
+
+#perfSlider .sectionHeader {
+    font-size: 10px;
+}
+
+.perf .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.perfImage {
+    width: 70%;
+    margin-left: 0;
+}
+
+.perfImage img {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 150px;
+}
+
+.perfText {
+    padding-left: 30px;
+    padding-right: 18px;
+    font-size: 13px;
+}
+
+.perfText h3 {
+    font-size: 12px;
+}
+
+.perfText .list {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 13px;
+}
+
+.perfText .list .unordered-list {
+    font-size: 10px;
+}
+
+.perfText .unordered-list li:before {
+    width: 5px;
+    height: 5px;
+}
+
+/*is sürec*/
+.issurec .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.issurecImage {
+    width: 70%;
+    margin-left: 0;
+}
+.issurecImage img{
+    margin-top: 20px;
+    margin-left: 0;
+}
+.issurecText {
+    padding-left: 30px;
+    padding-right: 20px;
+    font-size: 13px;
+}
+
+.issurecText h3 {
+    font-size: 12px;
+}
+
+.issurec .list {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 13px;
+}
+
+.issurec .list .unordered-list {
+    font-size: 10px;
+}
+
+.issurec .unordered-list li:before {
+    width: 5px;
+    height: 5px;
+}
+
+/*veri iot*/
+
+
+
+.veriotText {
+    font-size: 13px;
+}
